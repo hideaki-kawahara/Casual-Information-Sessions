@@ -2,15 +2,15 @@ PREDEF:
   - preface.re      # まえがき
 
 CHAPS:
-  - chapter1.re     # カジュアル面談とは？
-  - chapter2.re     # カジュアル面談のメリット
-  - chapter3.re     # 企業のメリット
-  - chapter4.re     # 知見が広がるカジュアル面談
-  - chapter5.re     # 転職サイトについて
-  - chapter6.re     # 転職サイト以外での活動
-  - chapter7.re     # カジュアル面談を受ける前にやること
-  - chapter8.re     # 受けている最中に注意したいこと
-  - chapter9.re     # 受けた後にやること
+  - chapter01.re    # カジュアル面談とは？
+  - chapter02.re     # カジュアル面談のメリット
+  - chapter03.re     # 企業のメリット
+  - chapter04.re     # 知見が広がるカジュアル面談
+  - chapter05.re     # 転職サイトについて
+  - chapter06.re     # 転職サイト以外での活動
+  - chapter07.re     # カジュアル面談を受ける前にやること
+  - chapter08.re     # 受けている最中に注意したいこと
+  - chapter09.re     # 受けた後にやること
   - chapter10.re    # カジュアル面談後に注意したいこと
   - chapter11.re    # 次の段階へ
 
