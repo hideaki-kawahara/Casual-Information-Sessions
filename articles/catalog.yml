@@ -1,21 +1,23 @@
 PREDEF:
-  - preface.re    # test
+  - preface.re      # まえがき
 
 CHAPS:
-  - chapter1.re
-  - chapter2.re
-  - chapter3.re
-  - chapter4.re
-  - chapter5.re
-  - chapter6.re
-  - chapter7.re
-  - chapter8.re
-  - chapter9.re
-  - chapter10.re
-  - chapter11.re
-  - chapter12.re
+  - chapter1.re     # カジュアル面談とは？
+  - chapter2.re     # カジュアル面談のメリット
+  - chapter3.re     # 企業のメリット
+  - chapter4.re     # 知見が広がるカジュアル面談
+  - chapter5.re     # 転職サイトについて
+  - chapter6.re     # 転職サイト以外での活動
+  - chapter7.re     # カジュアル面談を受ける前にやること
+  - chapter8.re     # 受けている最中に注意したいこと
+  - chapter9.re     # 受けた後にやること
+  - chapter10.re    # カジュアル面談後に注意したいこと
+  - chapter11.re    # 次の段階へ
+
+POSTDEF:
+  - afterword.re    # あとがき
 
 APPENDIX:
 
 POSTDEF:
-  - contributors.re
+  - contributors.re # 書いた人
