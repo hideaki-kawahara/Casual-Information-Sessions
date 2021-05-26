@@ -9,10 +9,12 @@ CHAPS:
   - chapter05.re    # 転職サイトについて
   - chapter06.re    # 転職サイト以外での活動
   - chapter07.re    # カジュアル面談を受ける前にやること
+  - chapter07_02.re    # オンライン会議ソフトについて
   - chapter08.re    # カジュアル面談のときに注意したいこと
   - chapter09.re    # 受けた後にやること
   - chapter10.re    # カジュアル面談後に注意したいこと
   - chapter11.re    # 次の段階へ
+  - oyakata.re      # カジュアル面談？いいえ、新卒採用とリクルーターの話です
 
 POSTDEF:
   - afterword.re    # あとがき
