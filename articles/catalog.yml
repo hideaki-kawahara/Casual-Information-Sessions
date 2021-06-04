@@ -6,14 +6,15 @@ CHAPS:
   - chapter02.re    # カジュアル面談のメリット
   - chapter03.re    # 転職サイトについて
   - chapter04.re    # 転職サイト以外での活動
-  - chapter05.re    # カジュアル面談を受ける前にやること
-  - chapter06.re    # カジュアル面談を開催する前にやること
-  - chapter07.re    # オンライン会議ソフトについて
-  - chapter08.re    # カジュアル面談のときに注意したいこと（求職者）
-  - chapter09.re    # カジュアル面談のときに注意したいこと（会社）
-  - chapter10.re    # カジュアル面談の後にやること
-  - chapter11.re    # 次の段階へ
-  - chapter12.re    # 体験談の導入部
+  - chapter05.re    # カジュアル面談を受ける前にやること（会社側、求職者側共通）
+  - chapter06.re    # カジュアル面談を受ける前にやること（求職者側）
+  - chapter07.re    # カジュアル面談を開催する前にやること（会社側）
+  - chapter08.re    # オンライン会議ソフトについて
+  - chapter09.re    # カジュアル面談のときに注意したいこと（求職者）
+  - chapter10.re    # カジュアル面談のときに注意したいこと（会社）
+  - chapter11.re    # カジュアル面談の後にやること
+  - chapter12.re    # 次の段階へ
+  - chapter13.re    # 体験談の導入部
   - chapter-interviewee.re       # カジュアル面談体験談
   - mizuryu.re
   - oyakata.re      # カジュアル面談？いいえ、新卒採用とリクルーターの話です
