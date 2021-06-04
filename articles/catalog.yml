@@ -4,18 +4,19 @@ PREDEF:
 CHAPS:
   - chapter01.re    # カジュアル面談とは？
   - chapter02.re    # カジュアル面談のメリット
-  - chapter05.re    # 転職サイトについて
-  - chapter06.re    # 転職サイト以外での活動
-  - chapter07.re    # カジュアル面談を受ける前にやること
-  - chapter07_02.re    # カジュアル面談を開催する前にやること
-  - chapter07_03.re    # オンライン会議ソフトについて
+  - chapter03.re    # 転職サイトについて
+  - chapter04.re    # 転職サイト以外での活動
+  - chapter05.re    # カジュアル面談を受ける前にやること
+  - chapter06.re    # カジュアル面談を開催する前にやること
+  - chapter07.re    # オンライン会議ソフトについて
   - chapter08.re    # カジュアル面談のときに注意したいこと（求職者）
-  - chapter08_02.re    # カジュアル面談のときに注意したいこと（会社）
-  - chapter09.re    # カジュアル面談の後にやること
+  - chapter09.re    # カジュアル面談のときに注意したいこと（会社）
+  - chapter10.re    # カジュアル面談の後にやること
   - chapter11.re    # 次の段階へ
+  - chapter12.re    # 体験談の導入部
   - Aizack.re       # カジュアル面談体験談
   - oyakata.re      # カジュアル面談？いいえ、新卒採用とリクルーターの話です
-  - ふれーむ.re      # カジュアル面談かすりもしてないのでそういう角度だと書きようがない
+  - chap-nichetop-recruiting.re      # 非IT企業で社内SE(内製要員)を採用するのに2年弱かかった話
 
 POSTDEF:
   - afterword.re    # あとがき
