@@ -22,7 +22,7 @@ bookname: Casual-Information-Sessions
 language: ja
 
 # 書名
-booktitle: {name: "カジュアル面談のトリセツ", file-as: "カジュアル面談のトリセツ"}
+booktitle: {name: "エンジニアのための「カジュアル面談のトリセツ」", file-as: "エンジニアのための「カジュアル面談のトリセツ」"}
 
 # 著者名。「, 」で区切って複数指定できる
 aut: [{name: "ブライトシステム編", file-as: "ブライトシステムヘン"}]
