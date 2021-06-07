@@ -100,6 +100,10 @@
 
 この1件から得た教訓は、興味のもてない面談スカウトにはしゃがない。「冷静に自分ならその会社で活躍できるか見極めろ」です。スカウトメッセージ・メールが来るのは嬉しいことです。しかし、本当にその会社が求めている理想像が自分に重なっているのかを考えずに面談をすると時間を無駄にしてしまうことがあります。ご注意ください。
 
+//embed[latex]{
+\clearpage
+//}
+
 === 求職者（私）が良くできた
 
  * @<b>{Wantedly経由でスカウトしてくれ、今後お会いするE社・F社}
@@ -108,10 +112,46 @@
 カジュアル面談において、一番手間がかかる作業がお互いの日程調整だと思います。利用しているプラットフォームによって異なりますが、大抵は「メッセージでお互いに日程候補を数度送り合い、合意する」ことになると思います。
 
 
-私は、そこに手間を感じていたため最近は”Calendly”というWebアプリケーションを利用し、こちらスケジュールの空きを全て下記左の図のように共有することにしています。企業の日程調整担当者には下記の中から自身の空いている日程で、私も空いている日を選ぶだけで下記右図のように私のカレンダーにもカジュアル面談の予定が設定されます。
+私は、そこに手間を感じていたため最近は”Calendly”というWebアプリケーションを利用し、こちらスケジュールの空きを全て[@<img>{screemshot_calendly}]のように共有することにしています。企業の日程調整担当者には下記の中から自身の空いている日程で、私も空いている日を選ぶだけで[@<img>{casual_interview_pic2}]のように私のカレンダーにもカジュアル面談の予定が設定されます。
 
-//image[screemshot_calendly][図1 Calendly][scale=0.5]
-//image[casual_interview_pic][図2 Googleカレンダーの状況][scale=0.5]
+//embed[latex]{
+\begin{figure}[htbp]
+  \begin{center}
+    \begin{tabular}{c}
+
+    \begin{minipage}{0.5\hsize}
+      \begin{center}
+//}
+
+//image[screemshot_calendly][Calendlyの画面][scale=0.9]{
+//}
+
+
+//embed[latex]{
+      \end{center}
+    \end{minipage}
+//}
+
+//embed[latex]{
+    \begin{minipage}{0.5\hsize}
+      \begin{center}
+//}
+//image[casual_interview_pic2][Googleカレンダーの状況][scale=0.75]{
+//}
+
+
+//embed[latex]{
+      \end{center}
+    \end{minipage}
+//}
+
+//embed[latex]{
+\end{tabular}
+ \end{center}
+\end{figure}
+//}
+
+
 
 この方法は初めて利用しましたが、これまでの煩雑だった日程調整がスムーズになりました。これまでは日程調整が手間だったため、その手間を減らして面談の準備に集中できるようになったのは我ながら良い動きだったと思う所です。
 
