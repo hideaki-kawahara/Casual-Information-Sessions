@@ -16,10 +16,11 @@ CHAPS:
   - chapter12.re    # 次の段階へ
   - chapter13.re    # 体験談の導入部
   - chapter-interviewee.re       # カジュアル面談体験談
-  - mizuryu.re
-  - syamosyamo.re
+  - mizuryu.re      # コラム：話をする分量って難しいね。
+  - syamosyamo.re   # 「カジュアル面談のトリセツ」某Xの体験談
   - oyakata.re      # カジュアル面談？いいえ、新卒採用とリクルーターの話です
   - chap-nichetop-recruiting.re      # 非IT企業で社内SE(内製要員)を採用するのに2年弱かかった話
+  # - ariaki.re       # この著者とガチでカジュアル面談をした話
 
 POSTDEF:
   - afterword.re    # あとがき
