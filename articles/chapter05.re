@@ -44,7 +44,7 @@ Webブラウザーベースのソフトウェアを使用するときはブラ�
 
 //footnote[muji][無印良品の家でテレワークしませんか？ビデオ通話アプリでご使用いただけるバーチャル背景をご用意しました。： https://house.muji.com/life/resident/virtual_image/about/ ]
 
-//footnote[free][ https://unsplash.com/collections/1887152/zoom-backgrounds  https://pixabay.com/ja/images/search/%E9%83%A8%E5%B1%8B/]
+//footnote[free][ https://unsplash.com/collections/1887152/zoom-backgrounds @<br>{} https://pixabay.com/ja/images/search/%E9%83%A8%E5%B1%8B/]
 
 
 === 部屋の温度のこと
