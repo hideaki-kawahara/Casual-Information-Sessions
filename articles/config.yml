@@ -25,7 +25,7 @@ language: ja
 booktitle: {name: "エンジニアのための「カジュアル面談のトリセツ」", file-as: "エンジニアのための「カジュアル面談のトリセツ」"}
 
 # 著者名。「, 」で区切って複数指定できる
-aut: [{name: "ブライトシステム編", file-as: "ブライトシステムヘン"}]
+aut: [{name: "川原 英明", file-as: "カワハラ ヒデアキ"}]
 
 # 以下はオプション
 # 以下はオプション(autと同じように配列書式で複数指定可能)。
@@ -47,7 +47,7 @@ aut: [{name: "ブライトシステム編", file-as: "ブライトシステム�
 # a-csl, csl: 監修者
 # a-dsr, dsr: デザイナ
 # a-edt, edt: 編集者
-edt: ["@sapi_kawahara"]
+# edt: ["@sapi_kawahara"]
 # a-ill, ill: イラストレータ
 # a-lyr, lyr: 歌詞作成者
 # a-mdc, mdc: メタデータセットの一次的責任者
@@ -57,7 +57,7 @@ edt: ["@sapi_kawahara"]
 # a-pht, pht: 撮影責任者
 # a-pbl, pbl: 出版社（発行所）
 # pbl: TechBooster
-# a-prt, prt: 印刷所
+prt: 印刷所
 # prt: TechBooster
 # a-red, red: 項目の枠組起草者
 # a-rev, rev: 評論者
@@ -66,7 +66,7 @@ edt: ["@sapi_kawahara"]
 # a-trc, trc: 筆記・タイプ作業者
 # a-trl, trl: 翻訳者
 
-# contact: 連絡先
+contact: Twitter:@sapi_kawahara,Email:casual-information@bright-system.dev
 
 # 刊行日(省略した場合は実行時の日付)
 date: 2021-6-19
@@ -74,10 +74,10 @@ date: 2021-6-19
 # 複数指定する場合は次のように記述する
 # [["初版第1刷の日付", "初版第2刷の日付"], ["第2版第1刷の日付"]]
 # 日付の後ろを空白文字で区切り、任意の文字列を置くことも可能。
-history: [["2021-6-19 技術書同人誌博覧会5版 v1.0.0"]]
+history: [["2021-6-19 技術書同人誌博覧会第5回 v1.0.0"]]
 # 権利表記(配列で複数指定可)
 # rights: (C) 2016 Re:VIEW Developers
-rights: (C) 2021 ブライトシステム
+rights: (C) 2021 ブライトシステム,川原 英明
 # description: 説明
 # subject: 短い説明用タグ(配列で複数指定可)
 # type: 書籍のカテゴリーなど(配列で複数指定可)
