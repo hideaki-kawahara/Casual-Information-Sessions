@@ -36,7 +36,7 @@ Twitterでは相互フォローしていなくてもダイレクトメッセー�
 
 
 
-すべてのアカウントからダイレクトメッセージを受信するには
+「すべてのアカウントからダイレクトメッセージを受信するには」を参考にして下さい。
 
 @<href>{https://help.twitter.com/ja/using-twitter/direct-messages#receive, https://help.twitter.com/ja/using-twitter/direct-messages#receive}
 
