@@ -20,7 +20,7 @@
 //image[korekarao][これからの採用][scale=1.0]{
 //}
 
-面接と呼ばれるものは、この図ではRecruiting（リクルーティング）と書かれているところになります。それではカジュアル面談は、どこになるのでしょうか？答えはlead generation（リードジェネレーション）とLead Nurturing（リードナーチャリング）の両方になります。
+面接と呼ばれるものは、この図ではRecruiting（リクルーティング）と書かれているところになります。それではカジュアル面談は、どこになるのでしょうか？答えはLead generation（リードジェネレーション）とLead Nurturing（リードナーチャリング）の両方になります。
 
 
 このことからカジュアル面談の定義が会社によって、Lead generationやLead NurturingやRecruitingだったりと物凄くバラバラなのです。Recruitingは採用活動となり完全にカジュアル面談とは異なるので、この本をお読みいただいたら是非ともカジュアル面談をLead generationやLead Nurturingに変更することを強く願います。
@@ -34,6 +34,31 @@ Recruitingをカジュアル面談としないことは理解できましたが�
 
 
 このことから、できるだけ早く採用まで持っていきたい気持ちがある会社ではLead generationで終わらせるのはもったないと思うので、Lead Nurturingでカジュアル面談を行ってくるでしょう。
+
+
+===[column] 「これからの採用」を少し深堀りする
+
+今回引用している[@<img>{korekarao}これからの採用]は、Demand generationを元にしております。
+
+
+Demand generationは需要創出と呼ばれており、Demand generationはB2Bの顧客獲得に用いられる手法で、Lead generation,Lead Nurturing,Lead qualification（リードクオリフィケーション）の3つのプロセスになっています。
+
+
+Demand generationは1990年ぐらいから登場してきた手法ですが、B2Bの手法のため知る人ぞ知る手法で、これをB2Cの手法で見てみると、B2Cでは古典的な手法としてAIDMAや最近だとAISASやAISCEASやなどがあります。これらのモデルの違いは後半に集中しており、前半のAttention（認知）とInterest（興味）は共通しています。
+
+
+
+そして、Demand generationと比較してみると、AttentionとLead generation、InterestとLead Nurturingは共通点が多く、会社説明会のプロセスはAttention、興味を持ってもらうプロセスはInterestと置き換えることができます。
+
+
+
+また、[@<img>{korekarao}これからの採用]では、Lead qualificationがRecruitingに変わり、4つ目のプロセスであるEmployee success（エンプロイーサクセス）が追加されています。
+
+
+このように、カジュアル面談を採用という世界で分析していくと、マーケティング手法である経営学の知識が出てきます。採用の世界も経営学と密接に結びついているので、もう少し理解を深めるなら経営学を少し学ぶのも良いでしょう。
+
+===[/column]
+
 
 
 
