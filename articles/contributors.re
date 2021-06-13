@@ -1,6 +1,6 @@
 = 著者紹介
 
-== 執筆者/発起人/編集
+== 執筆者/編集
 
 //embed{
     \begin{minipage}{.1\linewidth}

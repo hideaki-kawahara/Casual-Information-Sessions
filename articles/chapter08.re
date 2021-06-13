@@ -64,9 +64,9 @@
 
 マッチすると思ったのはこちらになります。
 
-https://kawahara-ci.hatenablog.com/draft/entry/WAUexlJI8-ceSguUMw_s-m0afZ4
+https://bright-system.dev/casual_information/blog/
 こちらのブログを拝見して、エンジニアとしてよく調査しているとともに、
-分析能力が非常に高く、エンジニアとして非常に優秀だと思います。
+分析能力が非常に高く、エンジニアとして非常に優秀だと感じました。
 
 また、Compassのサイトを拝見したところで勉強会の管理者をやられたり、
 技術書同人誌を自費で出版するなど、精力的にアウトプットをする方と感じました。
@@ -91,7 +91,7 @@ https://kawahara-ci.hatenablog.com/draft/entry/WAUexlJI8-ceSguUMw_s-m0afZ4
 
 今回募集しているのはフルスタックエンジニアとなります。
 ■募集要項URL
-https://kawahara-ci.hatenablog.com/draft/entry/5Myr_Y41i4klc9Qkd-AO9sXxJdo
+https://bright-system.dev/casual_information/bosyu/
 
 
 ブライトシステム株式会社　川原
@@ -102,7 +102,7 @@ https://kawahara-ci.hatenablog.com/draft/entry/5Myr_Y41i4klc9Qkd-AO9sXxJdo
 技術書同人誌を頒布することで、エンジニアの未来が明るくなることを祈っております。
 
 Email：casual-information@bright-system.dev
-Website：https://bright-system.dev/
+Website：https://bright-system.dev/casual_information/
 
 //}
 
@@ -112,6 +112,8 @@ Website：https://bright-system.dev/
 
 
 == メッセージのやり取りで気を付けること
+
+気を付けないとやってしまうミスなどを記載します。
 
 === カレンダーに記入する
 カジュアル面談の日程が決まったらカレンダーに記入しましょう。オンライン会議のURLが決まっていなくても日程が確定した時点で記入しましょう。
@@ -127,14 +129,14 @@ Website：https://bright-system.dev/
 === 誤字脱字の対応について
 
 ==== 曜日のミス
-筆者は曜日の把握が苦手です。そのため間違った曜日を指定することがあえります。その対処に1週間単位のカレンダーを月曜日から始まるように表示して、月曜日を火曜日と認識しないようにしています。曜日の間違いをする人は、このような対処をすることで軽減するのでやってみてください。また、曜日指定が不安なときは曜日を書かないのも良いでしょう。
+筆者は曜日の把握が苦手です。そのため間違った曜日を指定することがあります。その対処に1週間単位のカレンダーを月曜日から始まるように表示して、月曜日を火曜日と認識しないようにしています。曜日の間違いをする人は、このような対処をすることで軽減するのでやってみてください。また、曜日指定が不安なときは曜日を書かないのも良いでしょう。
 
 
-この対処に一番良いのはコピー＆ペーストです。Google Calendarはスケジュール設定をするときポップアップモードなら曜日が出るので、そこから曜日を含めた日付をコピー＆ペーストすると良いでしょう。
+この対処に一番良いのはコピー＆ペーストです。Google カレンダーはスケジュール設定をするときポップアップモードなら曜日が出るので、そこから曜日を含めた日付をコピー＆ペーストすると良いでしょう。
 
 
 
-//image[Calendar1][Google Calendarからのコピー＆ペースト][scale=0.5]{
+//image[Calendar1][Google カレンダーからのコピー＆ペースト][scale=0.5]{
 //}
 ※ペーストするときはWindowsならCtrl+Shift+V、MacならCommand+Shift+Vの書式なしのペーストを使いましょう。
 
