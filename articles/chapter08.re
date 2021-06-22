@@ -136,9 +136,6 @@ Website：https://bright-system.dev/casual_information/
 
 なお、筆者は、今日の日程を組まれたことは1回だけありました。たまたま日程が空いてたのでカジュアル面談を受けました。
 
-//embed[latex]{
-\clearpage
-//}
 
 
 === 誤字脱字の対応について

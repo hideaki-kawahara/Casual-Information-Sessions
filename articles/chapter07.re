@@ -155,6 +155,9 @@
 
 
 
+//embed[latex]{
+\clearpage
+//}
 
 
 =={id1} 時間配分を決定する

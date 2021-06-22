@@ -320,7 +320,7 @@ Microsoft TeamsはMicrosoft Outlookを使う前提になっております。Mic
 
 
 
-Google カレンダーの説明にはMicrosoft Teamsの参加URLを設定しておき、時間前になったらリンクをクリックして入ることを推奨します、
+Google カレンダーの説明にはMicrosoft Teamsの参加URLを設定しておき、時間前になったらリンクをクリックして入ることを推奨します。
 
 
 

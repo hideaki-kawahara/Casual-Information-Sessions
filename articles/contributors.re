@@ -26,8 +26,7 @@
         \end{minipage}
     \hspace{1ex}
 //}
-　@<br>{}
-
+　
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
@@ -38,8 +37,7 @@
         \end{minipage}
     \hspace{1ex}
 //}
-　@<br>{}
-
+　
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
@@ -50,7 +48,7 @@
         \end{minipage}
     \hspace{1ex}
 //}
-　@<br>{}
+　
 
 //embed{
     \begin{minipage}{.1\linewidth}
@@ -62,8 +60,7 @@
         \end{minipage}
     \hspace{1ex}
 //}
-　@<br>{}
-
+　
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
@@ -74,7 +71,7 @@
         \end{minipage}
     \hspace{1ex}
 //}
-　@<br>{}
+　
 
 //embed{
     \begin{minipage}{.1\linewidth}
