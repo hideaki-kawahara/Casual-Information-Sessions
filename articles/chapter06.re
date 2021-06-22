@@ -72,7 +72,7 @@
 会社のホームページにはビジョン・ミッション・バリューが書いてあるので確認しましょう。ビジョンは「会社が目指す理想の姿」で、ミッションは「会社が果たすべき使命」です。この2つは見た程度で大丈夫です。カジュアル面談で確認しておきたいのはバリューです。バリューは「組織と社員の行動基準」で、バリューを見ると会社の働き方が見えてきます。@<br>{}
 
 
-たとえばメルカリ社のバリュー@<href>{https://careers.mercari.com/jp/mission-values/#page-2, https://careers.mercari.com/jp/mission-values/#page-2}は「Go Bold」「All for One」「Be a Pro」の3つのことを掲げており、これは簡単に説明すると「大胆にチャレンジ」し、「チームの力を合わせ1つの目的」のために、「プロフェッショナルとして日々鍛錬」することです。このようなバリューは、そのまま自分たちの行動に直結します。つまり、コツコツと仕事を行うことが好きでチャレンジ精神は重要と感じない人はメルカリ社のバリューは合わないことになります。
+たとえばメルカリ社のバリュー@<fn>{mercari}は「Go Bold」「All for One」「Be a Pro」の3つのことを掲げており、これは簡単に説明すると「大胆にチャレンジ」し、「チームの力を合わせ1つの目的」のために、「プロフェッショナルとして日々鍛錬」することです。このようなバリューは、そのまま自分たちの行動に直結します。つまり、コツコツと仕事を行うことが好きでチャレンジ精神は重要と感じない人はメルカリ社のバリューは合わないことになります。
 
 
 
@@ -81,7 +81,7 @@
 
 ===[/column]
 
-
+//footnote[mercari][@<href>{https://careers.mercari.com/jp/mission-values/#page-2, https://careers.mercari.com/jp/mission-values/#page-2} ]
 
 
 == 齟齬をあらかじめ把握する
@@ -273,7 +273,8 @@
 
 個人活動には下に挙げるものが代表的です。
 
- * ブログ（個人ブログ、Qiita @<href>{https://qiita.com/, https://qiita.com/}、Zenn @<href>{https://zenn.dev/, https://zenn.dev/}など）
+ * ブログ（個人ブログ）
+ ** Qiita（@<href>{https://qiita.com/, https://qiita.com/}）、Zenn（@<href>{https://zenn.dev/, https://zenn.dev/}）など
  * ポートフォリオ作成
  * 個人開発
  * 勉強会で登壇する、勉強会を主催する
@@ -292,8 +293,10 @@
 代表的な技術書同人誌イベントを紹介します。
 
 
- * 「技術書同人誌博覧会」エンジニアのアウトプットを応援する。URL:@<href>{https://gishohaku.dev/, https://gishohaku.dev/}
- * 「技術書典」新しい技術に出会えるお祭り。URL:@<href>{https://techbookfest.org/, https://techbookfest.org/}
+ * 「技術書同人誌博覧会」エンジニアのアウトプットを応援する。
+ ** URL:@<href>{https://gishohaku.dev/, https://gishohaku.dev/}
+ * 「技術書典」新しい技術に出会えるお祭り。
+ ** URL:@<href>{https://techbookfest.org/, https://techbookfest.org/}
 
 ===[/column]
 

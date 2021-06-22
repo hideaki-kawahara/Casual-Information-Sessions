@@ -26,7 +26,7 @@
 上長（というか創業者社長）決裁を受け、新規スタッフの採用アプローチがスタートしました。
 
 
-//footnote[peyoung][ペヤング超超超超超超大盛やきそばペタマックス http://www.peyoung.co.jp/products/1734/]
+//footnote[peyoung][ペヤング超超超超超超大盛やきそばペタマックス @<br>{}http://www.peyoung.co.jp/products/1734/]
 
 === とりあえず採用の枠組みを組んだ
 
